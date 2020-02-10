@@ -1,0 +1,14 @@
+h1{
+  color: blue;
+  font-style: italic;
+}
+h2{
+  color: orange;
+  font-style: oblique;
+}
+ul{list-style: georgian;
+list-style-image: inherit;
+list-style-position: outside;}
+header{color: blue;}
+img {float: left;
+}

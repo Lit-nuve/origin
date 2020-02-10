@@ -1,0 +1,15 @@
+h1{
+  color: darkred;
+  font-family: fantasy;
+}
+h2{
+  color: navy;
+  font-style: italic;
+  font-family: cursive;
+}
+p {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+ul{line-height: inherit;
+
+}
